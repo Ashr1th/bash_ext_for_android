@@ -1,0 +1,6 @@
+id=Custom_tools_bundle
+name=Bash_ext for android
+version=v1.0
+versionCode=1
+author=tillend
+description=Systemlessly installs static bash, vim, and htop binaries to /system/bin.
