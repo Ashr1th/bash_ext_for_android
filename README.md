@@ -4,7 +4,7 @@ This repo/module contains bash, vim, htop, nano binaries(arm64)
 
 ## Build
 
-To create this module `zip` is requirements.
+To create this module `zip` command is requirements.
 
 Run the following commands
 
